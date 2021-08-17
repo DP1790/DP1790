@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep learning, NLP, Cloud computing, python, SQL, Visulization
 - 🌱 I’m currently learning Data science(PG Program)
 - 💞️ I’m looking to collaborate on projects, hackthons
-- 📫 reach me on https://www.linkedin.com/feed/
+- 📫 reach me on linkedin.com/in/deepam-purkayastha-779079100
 
 <!---
 DP1790/DP1790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
