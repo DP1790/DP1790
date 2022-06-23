@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Deepam Purkayastha, currently working with HCL Technologies as a Data Scientist.
+- 👋 Hi, I’m Deepam Purkayastha, currently working with Crowdstrike as a Data Scientist.
 - 👀 I’m interested in Machine Learning, Deep learning, NLP, Cloud computing, python, SQL, Visulization
-- 🌱 I’m currently learning Data science(PG Program)
+- 🌱 I have completed the PG Program in Data science & working on real time projects.
 - 💞️ I’m looking to collaborate on projects, hackthons
 - 📫 reach me on linkedin.com/in/deepam-purkayastha-779079100
 
