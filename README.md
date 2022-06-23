@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepam Purkayastha, currently working with Crowdstrike as a Data Scientist.
+- 👋 Hi, I’m Deepam Purkayastha, currently working with Crowdstrike as a Sr. Analyst.
 - 👀 I’m interested in Machine Learning, Deep learning, NLP, Cloud computing, python, SQL, Visulization
 - 🌱 I have completed the PG Program in Data science & working on real time projects.
 - 💞️ I’m looking to collaborate on projects, hackthons
